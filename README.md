@@ -92,3 +92,10 @@ The &nbsp;last &nbsp;element &nbsp;becomes&nbsp; the &nbsp;first one.<br><br>
 The &nbsp;last&nbsp; element&nbsp; becomes &nbsp;the &nbsp;first &nbsp;one.<br><br>
 <b>rrr: &nbsp;</b><b>rra</b> &nbsp;and &nbsp;<b>rrb</b>&nbsp; at &nbsp;the&nbsp; same &nbsp;time.<br>
 
+<br><br>
+
+> [!NOTE]  
+> Because of 42 School norm requirements:
+> * Each function can't have more than 25 lines of code.
+> * All variables are declared and aligned at the top of each function.
+> * Project should be created just with allowed functions otherwise it's cheating.
