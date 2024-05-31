@@ -56,10 +56,8 @@ void	check_char(char **str)
 void	check_duplicate(t_stack *list)
 {
 	t_stack		*tmp_list;
-	t_stack		*tmp;
 	long int	num;
 
-	tmp = list;
 	while (list != NULL)
 	{
 		num = list->data;
